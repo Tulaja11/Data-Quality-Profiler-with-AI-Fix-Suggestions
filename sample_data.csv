@@ -1,0 +1,26 @@
+employee_id,full name,age,salary,email,department,join_date,performance_score,phone
+101,Aarav Shah,28,55000,aarav.shah@company.com,Engineering,2021-03-15,4.2,9876543210
+102,Priya Mehta,,72000,priya.mehta@company.com,Sales,2020-07-22,3.8,9812345678
+103,Rohan Verma,35,NULL,rohan.verma@company.com,Engineering,2021-03-15,4.5,9823456789
+104,Sneha Joshi,999,48000,sneha.joshi@company.com,HR,2019-11-01,3.2,9834567890
+105,Amit Patel,31,48000,amit.patel@company.com,HR,01-12-2022,2.9,9845678901
+106,Kavya Rao,29,85000,,Engineering,2022-01-10,4.7,9856789012
+107,Aarav Shah,28,55000,aarav.shah@company.com,Engineering,2021-03-15,4.2,9876543210
+108,Divya Nair,27,52000,divya.nair@company.com,engineering,2023-05-18,3.5,9867890123
+109,Rahul Sharma,33,150000,rahul.sharma@company.com,Sales,2020-09-30,4.1,9878901234
+110,Ishaan Gupta,31,,ishaan@@company.com,HR,2021-08-14,3.9,9889012345
+111,Pooja Singh,29,61000,pooja.singh@company.com,SALES,2022-03-05,4.0,9890123456
+112,,45,70000,ananya.iyer@company.com,Engineering,2018-06-20,4.8,9801234567
+113,Vikram Jain,38,67000,vikram.jain@company.com,Finance,15/08/2019,3.6,9811234567
+114,Meena Pillai,26,44000,meena.pillai@company.com,HR,2023-09-01,,9822345678
+115,Arjun Desai, 32 ,59000,arjun.desai@company.com, Sales ,2021-11-20,3.3,9833456789
+116,Tanvi Kulkarni,30,58000,tanvi.kulkarni@company.com,Finance,2022-07-14,4.4,9844567890
+117,Saurabh Mishra,28,NULL,saurabh@company.com,engineering,2023-01-08,3.7,
+118,Neha Reddy,24,39000,neha.reddy@company.com,HR,2023-11-15,3.1,9866789012
+119,Karan Bose,36,78000,karan.bose@company.com,Finance,2017-04-10,4.6,9877890123
+120,Anjali Tiwari,29,53000,anjali.tiwari@company.com,Sales,2022-08-25,2.8,9888901234
+121,Ravi Kumar,-5,62000,ravi.kumar@company.com,Engineering,2020-12-01,4.3,9899012345
+122,Sunita Yadav,34,57000,sunita.yadav@company.com,Finance,2019-03-18,3.4,9800123456
+123,Mohit Agarwal,31,63000,mohit.agarwal@company.com,Sales,2021-06-22,5.8,9811234568
+124,Deepika Sharma,27,50000,deepika.sharma@company.com,HR,2022-10-30,3.0,9822345679
+125,Nikhil Joshi,33,NULL,nikhil.joshi@company.com,Engineering,2020-05-15,4.1,9833456780
